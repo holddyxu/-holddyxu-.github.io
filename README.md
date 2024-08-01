@@ -1,2 +1,2 @@
-# -holddyxu-.github.io
+# holddyxu.github.io
 Hugo Blog for Holddy
